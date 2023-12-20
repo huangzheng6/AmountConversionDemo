@@ -1,5 +1,8 @@
 ﻿namespace Demo
 {
+    /// <summary>
+    /// 金额扩展类
+    /// </summary>
     public static class MoneyExtensions
     {
         /// <summary>
