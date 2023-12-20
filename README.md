@@ -1,2 +1,2 @@
-# AmountConversionDeomo
-金额转换测试
+# AmountConversionDemo
+金额转换示例代码
