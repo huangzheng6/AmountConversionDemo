@@ -4,7 +4,16 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            decimal value = 100000;
+            Console.WriteLine(value.GetTenThousandsYuan());
+
+            value = 126500;
+            Console.WriteLine(value.GetTenThousandsYuan());
+
+            value = 126570;
+            Console.WriteLine(value.GetTenThousandsYuan());
+
+            Console.ReadKey();
         }
     }
 }
